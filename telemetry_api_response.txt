@@ -1,0 +1,61 @@
+{
+    "vin": "VINVINVINVINVIN01",
+    "correlationId": "correlation-id",
+    "lastTimestamp": "2018-06-02T22:04:18Z",
+    "location": {
+        "type": "Point",
+        "coordinates": [
+            -88.3185833333333,
+            42.228175
+        ]
+    },
+    "vehicleName": "CAMRY",
+    "telemetry": {
+        "fuelLevel": {
+            "value": 26.46
+        },
+        "odometer": {
+            "value": 5176,
+            "unit": "mi"
+        },
+        "sunRoof": {
+            "value": 2
+        },
+        "spareTirePressure": {
+            "value": 127,
+            "unit": "psi"
+        },
+        "flTirePressure": {
+            "value": 36,
+            "unit": "psi"
+        },
+        "driverWindow": {
+            "value": 2
+        },
+        "rrWindow": {
+            "value": 2
+        },
+        "speed": {
+            "value": 0,
+            "unit": "km/h"
+        },
+        "frTirePressure": {
+            "value": 37,
+            "unit": "psi"
+        },
+        "rlTirePressure": {
+            "value": 37,
+            "unit": "psi"
+        },
+        "passengerWindow": {
+            "value": 2
+        },
+        "rrTirePressure": {
+            "value": 37,
+            "unit": "psi"
+        },
+        "rlWindow": {
+            "value": 2
+        }
+    }
+}
